@@ -1,0 +1,5 @@
+timer.c:9:13:timerCallback	32	static
+timer.c:24:6:initTimer	40	static
+timer.c:42:6:timerStop	24	static
+timer.c:55:6:timerStart	24	static
+timer.c:67:6:timerExpired	24	static

@@ -1,0 +1,9 @@
+ptpd.h:106:25:max	16	static
+ptpd.h:114:25:min	16	static
+servo.c:3:6:initClock	24	static
+servo.c:49:16:order	16	static
+servo.c:61:13:filter	32	static
+servo.c:130:6:updateOffset	40	static
+servo.c:192:6:updateDelay	40	static
+servo.c:218:6:updatePeerDelay	56	static
+servo.c:249:6:updateClock	96	static

@@ -1,0 +1,15 @@
+stm32f2xx_hal_eth_ex.c:10:6:ETH_EnhancedDescriptorCmd	16	static
+stm32f2xx_hal_eth_ex.c:38:6:ETH_MACITConfig	16	static
+stm32f2xx_hal_eth_ex.c:64:19:HAL_ETH_TransmitFrame_TimeStamp	40	static
+stm32f2xx_hal_eth_ex.c:218:6:ETH_EnablePTPTimeStampAddend	4	static
+stm32f2xx_hal_eth_ex.c:229:6:ETH_EnablePTPTimeStampInterruptTrigger	4	static
+stm32f2xx_hal_eth_ex.c:240:6:ETH_EnablePTPTimeStampUpdate	4	static
+stm32f2xx_hal_eth_ex.c:251:6:ETH_InitializePTPTimeStamp	4	static
+stm32f2xx_hal_eth_ex.c:265:6:ETH_PTPUpdateMethodConfig	16	static
+stm32f2xx_hal_eth_ex.c:288:6:ETH_PTPTimeStampCmd	16	static
+stm32f2xx_hal_eth_ex.c:316:12:ETH_GetPTPFlagStatus	24	static
+stm32f2xx_hal_eth_ex.c:338:6:ETH_SetPTPSubSecondIncrement	16	static
+stm32f2xx_hal_eth_ex.c:357:6:ETH_SetPTPTimeStampUpdate	24	static
+stm32f2xx_hal_eth_ex.c:375:6:ETH_SetPTPTimeStampAddend	16	static
+stm32f2xx_hal_eth_ex.c:387:6:ETH_SetPTPTargetTime	16	static
+stm32f2xx_hal_eth_ex.c:410:10:ETH_GetPTPRegister	16	static

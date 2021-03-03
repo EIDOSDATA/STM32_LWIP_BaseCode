@@ -1,0 +1,14 @@
+ethernetif.c:85:7:ETH_PTPSubSecond2NanoSecond	24	static
+ethernetif.c:92:7:ETH_PTPNanoSecond2SubSecond	32	static
+ethernetif.c:99:6:ETH_PTPTime_GetTime	16	static
+ethernetif.c:109:6:HAL_ETH_MspInit	64	static
+ethernetif.c:178:6:HAL_ETH_MspDeInit	16	static
+ethernetif.c:221:6:HAL_ETH_RxCpltCallback	16	static
+ethernetif.c:240:13:low_level_init	80	static
+ethernetif.c:361:14:low_level_output	48	static
+ethernetif.c:475:21:low_level_input	56	static
+ethernetif.c:586:6:ethernetif_input	24	static
+ethernetif.c:610:7:raw_sendto	40	static
+ethernetif.c:687:7:ethernetif_init	16	static
+ethernetif.c:734:7:sys_jiffies	8	static
+ethernetif.c:745:7:sys_now	8	static

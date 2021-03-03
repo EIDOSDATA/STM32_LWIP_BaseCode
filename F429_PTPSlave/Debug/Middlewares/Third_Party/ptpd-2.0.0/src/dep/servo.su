@@ -1,0 +1,7 @@
+servo.c:3:6:initClock	24	static
+servo.c:49:16:order	16	static
+servo.c:163:13:filter	24	static
+servo.c:173:6:updateOffset	24	static
+servo.c:241:6:updateDelay	24	static
+servo.c:267:6:updatePeerDelay	40	static
+servo.c:298:6:updateClock	64	static
